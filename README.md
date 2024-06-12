@@ -1,7 +1,6 @@
 ### Olá! Eu sou o João Paulo 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfagund&layout=compact)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 ### Linguagens que utilizo:
 
 <div style="display: inline_block"><br>
