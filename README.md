@@ -1,6 +1,5 @@
 ### Olá! Eu sou o João Paulo 🚀
 
-![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=jpfagund&show_icons=true&theme=github_dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfagund&layout=compact)
 
 ### Linguagens que utilizo:
