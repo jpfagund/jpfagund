@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Paulo 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfagund&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfagund&layout=compact&theme=tokyonight&cache_seconds=1800)
 ### Linguagens que utilizo:
 
 <div style="display: inline_block"><br>
